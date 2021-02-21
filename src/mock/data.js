@@ -37,21 +37,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'NoBrainerTrainer.png',
+    title: 'No Brainer Trainer',
+    info: 'The No Brainer Trainer was a group project for the UNC-RAL Full Stack Coding Bootcamp. Our team of six worked together to create an intuitive, easy-to-use workout app that takes makes choosing a workout easy.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://nobrainertrainer.herokuapp.com/',
+    repo: 'https://github.com/pmhagwood/no-brainertrainer', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Wander+Plus.png',
+    title: 'Wander + Plus',
+    info: 'Wander + Plus was a group project for the UNC-RAL Full Stack Coding Bootcamp. Together with my three teammates, we created an app to help users find travel information for their destination countries.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://jamescbaldwin.github.io/WANDER-PLUS/',
+    repo: 'https://github.com/jamescbaldwin/WANDER-PLUS', // if no repo, the button will not show up
   },
 ];
 
