@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Maria Byler | Developer', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my portfolio', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -28,9 +28,9 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'React App.png',
     title: 'Get it Write',
-    info: '',
+    info: 'Get it Write is a time-saving app that generates text templates for you. ',
     info2: '',
     url: 'https://getitwrite.herokuapp.com/',
     repo: 'https://github.com/MStuart90/Get-it-Write', // if no repo, the button will not show up
