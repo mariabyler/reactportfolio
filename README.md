@@ -7,6 +7,6 @@
   <br>
 </h2>
 
-GitHub **[click here](https://github.com/mariabyler)**\
+GitHub **[click here](https://github.com/mariabyler)**
 
 
